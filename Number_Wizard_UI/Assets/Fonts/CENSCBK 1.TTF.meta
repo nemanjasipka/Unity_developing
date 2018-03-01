@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 4bd2b49dca89bb240822f67f61fd989a
+timeCreated: 1519750254
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Century Schoolbook
+  fontNames:
+  - Century Schoolbook
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 103a5a848e2412c4dbce44e78d07fbaa, type: 3}
+  - {fileID: 12800000, guid: 04039a496269e2341b6c62bdef757b2d, type: 3}
+  - {fileID: 12800000, guid: 25dbd79e1b12f7e4bb1f34c7a90a46e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 84d8d2fe8afcc6d4ea467933aebec7b1
+timeCreated: 1519750362
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brush Script MT
+  fontNames:
+  - Brush Script MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c982666388554b4ba309660bff733ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

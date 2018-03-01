@@ -1,0 +1,23 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class LevelManagerScript : MonoBehaviour
+{
+
+    public void loadLevel(string name)
+    {
+        Debug.Log("Level load requested" + name);
+        // Application.LoadLevel(1);-- old method to call scene
+        SceneManager.LoadScene(name);// new method to call scene
+
+    }
+
+    public void quitGame()
+    {
+        Debug.Log("Level quit requested");
+        Application.Quit();//-- exit application works only on PC games
+    }
+
+}

@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: b68e51d3ef4a93749933e78a61c78da6
+timeCreated: 1519750373
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial
+  fontNames:
+  - Arial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00d99d802949e924ca02a707098b14e6, type: 3}
+  - {fileID: 12800000, guid: 0e6065b1905a5ef4dbd58e7c99ed19a7, type: 3}
+  - {fileID: 12800000, guid: 027235d152eac30468b9bd1c5ab68f8c, type: 3}
+  - {fileID: 12800000, guid: 10b732e1ed9064e4c8747238ba2e374b, type: 3}
+  - {fileID: 12800000, guid: aa706ce244495174794daf77345ce967, type: 3}
+  - {fileID: 12800000, guid: 16f46e63f5c2bce4296404ca6375999e, type: 3}
+  - {fileID: 12800000, guid: 169a5783e38425e4b9f2211ecb5bec14, type: 3}
+  - {fileID: 12800000, guid: 193239064f9ef9d46819c1aa72c28264, type: 3}
+  - {fileID: 12800000, guid: 32ffca26f01f05e4b8b354e8bfdab7ab, type: 3}
+  - {fileID: 12800000, guid: 8e26f777d05cad841b804024699b035f, type: 3}
+  - {fileID: 12800000, guid: 1e84e28729a17cc449bf4610f3f4e428, type: 3}
+  - {fileID: 12800000, guid: 3524f0a94b98ce34ca3ebb375bd7ea18, type: 3}
+  - {fileID: 12800000, guid: 4428236a6f1ea294599a56fd5babe78f, type: 3}
+  - {fileID: 12800000, guid: 6edaaf7b174bdec45b083993e2e05024, type: 3}
+  - {fileID: 12800000, guid: a19d07de026976f4abaa3020cf59c371, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
