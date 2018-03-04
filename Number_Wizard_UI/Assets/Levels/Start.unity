@@ -207,8 +207,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000011444092, y: 212}
-  m_SizeDelta: {x: 638.6, y: 131.3}
+  m_AnchoredPosition: {x: 0, y: 341}
+  m_SizeDelta: {x: 764.7, y: 358.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &71677593
 MonoBehaviour:
@@ -242,9 +242,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Welcome to the Game
-
-    Fun starts here'
+  m_Text: "Welcome to the Game,\n Your fun starts here"
 --- !u!222 &71677594
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -463,7 +461,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 758.4, y: 587.4}
+  m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1095324490
 MonoBehaviour:
@@ -576,8 +574,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -212.4}
-  m_SizeDelta: {x: 160, y: 56.8}
+  m_AnchoredPosition: {x: 5.6, y: -313}
+  m_SizeDelta: {x: 221.6, y: 56.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1449368667
 MonoBehaviour:
@@ -703,8 +701,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -120.4}
-  m_SizeDelta: {x: 160, y: 51.1}
+  m_AnchoredPosition: {x: 5.6, y: -120.4}
+  m_SizeDelta: {x: 319.6, y: 51.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1573682824
 MonoBehaviour:
@@ -829,7 +827,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000061989, y: 14}
+  m_AnchoredPosition: {x: -0.0000061989, y: 84}
   m_SizeDelta: {x: 670.1, y: 78.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2112838209
@@ -864,7 +862,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Chose a number between 1 and a 1000
+  m_Text: 'Chuse a number between 1 and  1000
 
 '
 --- !u!222 &2112838210

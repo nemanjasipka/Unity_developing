@@ -380,8 +380,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 758.4, y: 587.4}
+  m_AnchoredPosition: {x: 0, y: 14}
+  m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1330827763
 MonoBehaviour:
@@ -494,7 +494,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000012159, y: -137}
+  m_AnchoredPosition: {x: -0.000012159, y: -308}
   m_SizeDelta: {x: 400.7, y: 51.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1656644358
@@ -537,7 +537,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1592081757}
-        m_MethodName: loadLevel
+        m_MethodName: EndGame
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
